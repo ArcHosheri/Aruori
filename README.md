@@ -1,1 +1,1 @@
-# HanekmioInstance
+# Minecraft 'Azure Symphony' modpack
