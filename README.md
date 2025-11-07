@@ -1,1 +1,1 @@
-# Minecraft 'Azure Symphony' modpack
+# Minecraft 'Azur Sym' modpack
