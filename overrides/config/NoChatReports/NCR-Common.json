@@ -1,0 +1,7 @@
+{
+  "demandOnClientMessage": "您的客户端没有添加No Chat Reports模组,而此多人游戏要求玩家必须添加No Chat Reports模组后才能进入!",
+  "demandOnClient": false,
+  "convertToGameMessage": true,
+  "addQueryData": true,
+  "enableDebugLog": false
+}

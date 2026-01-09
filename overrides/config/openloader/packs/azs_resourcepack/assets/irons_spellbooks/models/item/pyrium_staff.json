@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/handheld",
+	"loader": "neoforge:separate_transforms",
+	"textures": {
+	  "layer0": "irons_spellbooks:item/pyrium_staff_gui"
+	},
+	"base": {
+	  "parent": "irons_spellbooks:item/pyrium_staff_handled"
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "irons_spellbooks:item/pyrium_staff_gui"
+	  },
+	  "fixed": {
+		"parent": "irons_spellbooks:item/pyrium_staff_gui"
+	  }
+	}
+  }

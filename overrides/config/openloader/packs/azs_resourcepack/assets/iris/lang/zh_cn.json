@@ -1,0 +1,13 @@
+{
+"iris.shaders.reloaded": "[碧蓝交响曲]已重新加载光影包!",
+"iris.shaders.disabled": "[碧蓝交响曲]光影包已禁用!",
+"iris.shaders.toggled": "[碧蓝交响曲]光影包已切换到%s!",
+"iris.shaders.debug.enabled": "[碧蓝交响曲]调试已启用,日志将更加详细!",
+"iris.shaders.debug.disabled": "[碧蓝交响曲]调试已禁用。",
+"iris.shaders.debug.failure": "[碧蓝交响曲]无法启用调试,你的电脑不支持调试功能。",
+"iris.shaders.debug.restart": "[碧蓝交响曲]没有调试环境,请重启以启用调试。",
+"iris.shaders.ssbofailure": "[碧蓝交响曲]光影请求了你的显卡所不支持的特定功能(SSBO),可能无法正常工作。",
+"iris.shaders.reloaded.failure": "[碧蓝交响曲]重新加载光影包失败!原因:%s",
+"iris.shaders.toggled.failure": "[碧蓝交响曲]切换光影包失败!原因:%s",
+"_comment": "Azur Sym(Shortname: AZS) modpack file comments, It acts to preserve the original modpack author: Hanekmio information. According to the Azur Sym modpack usage agreement, users are allowed to create and distribute on the basis of Azur Sym modpack, but the original modpack author information must be retained. Azur Sym modpack is free for users to download, if you spend real money in somewhere and download Azur Sym modpack, please avoid seller!"
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "matchItems": [
+      "kaleidoscope_cookery:tomato"
+    ],
+    "resultItems": "farm_and_charm:tomato"
+  },
+  {
+    "matchItems": [
+      "bountifulfares:maize"
+    ],
+    "resultItems": "farm_and_charm:corn"
+  },
+  {
+    "matchItems": [
+      "kaleidoscope_cookery:lettuce"
+    ],
+    "resultItems": "farm_and_charm:lettuce"
+  },
+  {
+    "matchItems": [
+      "bountifulfares:passion_fruit"
+    ],
+    "resultItems": "atmospheric:passion_fruit"
+  },
+  {
+    "matchItems": [
+      "environmental:plum"
+    ],
+    "resultItems": "bountifulfares:plum"
+  },
+  {
+    "matchItems": [
+      "environmental:cherries"
+    ],
+    "resultItems": "vinery:cherry"
+  },
+  {
+    "matchItems": [
+      "bountifulfares:coconut"
+    ],
+    "resultItems": "natures_spirit:coconut"
+  },
+  {
+    "matchItems": [
+      "ecologics:coconut_husk"
+    ],
+    "resultItems": "natures_spirit:coconut_shell"
+  },
+  {
+    "matchItems": [
+      "bountifulfares:coconut_half",
+      "ecologics:coconut_slice"
+    ],
+    "resultItems": "natures_spirit:coconut_half"
+  },
+  {
+    "matchItems": [
+      "ecologics:walnut",
+      "bountifulfares:walnut"
+    ],
+    "resultItems": "caupona:walnut"
+  },
+  {
+    "matchItems": [
+      "bountifulfares:orange"
+    ],
+    "resultItems": "atmospheric:orange"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:strawberry"
+    ],
+    "resultItems": "neapolitan:strawberries"
+  },
+  {
+    "matchItems": [
+      "kaleidoscope_cookery:tomato_seed"
+    ],
+    "resultItems": "farm_and_charm:tomato_seeds"
+  },
+  {
+    "matchItems": [
+      "kaleidoscope_cookery:lettuce_seed"
+    ],
+    "resultItems": "farm_and_charm:lettuce_seeds"
+  },
+  {
+    "_comment": "Azur Sym(Shortname: AZS) modpack file comments, It acts to preserve the original modpack author: Hanekmio information. According to the Azur Sym modpack usage agreement, users are allowed to create and distribute on the basis of Azur Sym modpack, but the original modpack author information must be retained. Azur Sym modpack is free for users to download, if you spend real money in somewhere and download Azur Sym modpack, please avoid seller!",
+    "matchItems": [
+      "bountifulfares:maize_seeds"
+    ],
+    "resultItems": "farm_and_charm:kernels"
+  }
+]

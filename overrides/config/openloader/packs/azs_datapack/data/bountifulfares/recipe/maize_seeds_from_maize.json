@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/corn"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "farm_and_charm:kernels"
+  }
+}

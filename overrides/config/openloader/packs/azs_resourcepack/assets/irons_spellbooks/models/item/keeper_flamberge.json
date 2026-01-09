@@ -1,0 +1,19 @@
+
+{
+	"parent": "minecraft:item/handheld",
+	"loader": "neoforge:separate_transforms",
+	"textures": {
+	  "layer0": "irons_spellbooks:item/keeper_flamberge_gui"
+	},
+	"base": {
+	  "parent": "irons_spellbooks:item/keeper_flamberge_handled"
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "irons_spellbooks:item/keeper_flamberge_gui"
+	  },
+	  "fixed": {
+		"parent": "irons_spellbooks:item/keeper_flamberge_gui"
+	  }
+	}
+  }
