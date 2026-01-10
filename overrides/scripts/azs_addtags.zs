@@ -371,6 +371,14 @@
 <tag:item:c:seeds/tomato>.add(<item:kaleidoscope_cookery:tomato_seed>);
 <tag:item:c:seeds/cabbage>.add(<item:kaleidoscope_cookery:lettuce_seed>);
 <tag:item:c:seeds/lettuce>.add(<item:kaleidoscope_cookery:lettuce_seed>);
+
+<tag:item:c:seeds/cabbage>.add(<item:farm_and_charm:lettuce_seeds>);
+<tag:item:c:seeds/lettuce>.add(<item:farm_and_charm:lettuce_seeds>);
+<tag:item:c:foods/lettuce>.add(<item:farm_and_charm:lettuce>);
+<tag:item:c:foods/cabbage>.add(<item:farm_and_charm:lettuce>);
+<tag:item:c:crops/lettuce>.add(<item:farm_and_charm:lettuce>);
+<tag:item:c:vegetables/lettuce>.add(<item:farm_and_charm:lettuce>);
+<tag:item:c:vegetables/cabbage>.add(<item:farm_and_charm:lettuce>);
 # EQUIPMENTS
 <tag:item:kaleidoscope_cookery:farmer_armor>.add(<item:vinery:straw_hat>);
 <tag:item:kaleidoscope_cookery:straw_hat>.add(<item:vinery:straw_hat>);
