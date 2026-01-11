@@ -379,6 +379,7 @@
 <tag:item:c:crops/lettuce>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:vegetables/lettuce>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:vegetables/cabbage>.add(<item:farm_and_charm:lettuce>);
+<<<<<<< HEAD
 
 <tag:item:c:foods>.add(<item:caupona:walnut>);
 <tag:item:c:foods/nut>.add(<item:caupona:walnut>);
@@ -421,6 +422,8 @@
 <tag:item:c:nuts>.add(<item:bountifulfares:walnut>);
 <tag:item:c:nuts/walnut>.add(<item:bountifulfares:walnut>);
 <tag:item:c:nuts/walnuts>.add(<item:bountifulfares:walnut>);
+=======
+>>>>>>> 3612d525cf3693c9bb2f76017c5de69ef44185eb
 # EQUIPMENTS
 <tag:item:kaleidoscope_cookery:farmer_armor>.add(<item:vinery:straw_hat>);
 <tag:item:kaleidoscope_cookery:straw_hat>.add(<item:vinery:straw_hat>);
