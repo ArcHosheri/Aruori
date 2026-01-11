@@ -28,3 +28,6 @@ furnace.addRecipe("blockrawplatinumtoplatinum", <item:oritech:platinum_block>, <
 furnace.addRecipe("block_rawdeepsilver_to_deepsilver", <item:eternal_starlight:deepsilver_block>, <tag:item:c:storage_blocks/raw_deepsilver>, 7.0, 1300);
 furnace.addRecipe("block_rawaethersent_to_aethersent", <item:eternal_starlight:aethersent_block>, <tag:item:c:storage_blocks/raw_aethersent>, 7.0, 1300);
 furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
+# BANNED_EFFECTS
+import crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent;
+events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[碧蓝交响曲]饱腹代偿已被游戏设定移除。");}});

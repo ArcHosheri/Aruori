@@ -1,0 +1,36 @@
+{
+	"type": "caupona:dolium",
+	"items": [
+		{
+			"tag": "c:bread",
+			"count": 1
+		},
+		{
+			"tag": "caupona:walnut",
+			"count": 2
+		},
+		{
+			"type": "neoforge:compound", 
+			"ingredients": [
+				{
+					"item": "minecraft:sugar"
+				},
+				{
+					"item": "minecraft:honeycomb"
+				}
+			],
+			"count": 2
+		}
+	],
+	"fluid": {
+    	"amount": 500,
+    	"fluid": "caupona:bone_gelatin"
+    },
+	"density": 0.0,
+	"keepInfo": false,
+	"output": {
+		"id": "caupona:snail_bait",
+		"count": 1
+	},
+	"time": 200
+}
