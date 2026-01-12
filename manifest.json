@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Azur_Sym",
-  "version": "6.1",
+  "version": "6.1patch1",
   "author": "Hanekmio",
   "files": [
     {
@@ -148,8 +148,8 @@
       "isLocked": false
     },
     {
-      "projectID": 511319,
-      "fileID": 6091021,
+      "projectID": 243190,
+      "fileID": 7446754,
       "required": true,
       "isLocked": false
     },
@@ -198,6 +198,12 @@
     {
       "projectID": 475117,
       "fileID": 7428334,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 931925,
+      "fileID": 7378108,
       "required": true,
       "isLocked": false
     },
@@ -376,14 +382,14 @@
       "isLocked": false
     },
     {
-      "projectID": 667299,
-      "fileID": 7437845,
+      "projectID": 1129397,
+      "fileID": 7399460,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 1129397,
-      "fileID": 7399460,
+      "projectID": 667299,
+      "fileID": 7437845,
       "required": true,
       "isLocked": false
     },
@@ -455,7 +461,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 7391682,
+      "fileID": 7420587,
       "required": true,
       "isLocked": false
     },
@@ -654,12 +660,6 @@
     {
       "projectID": 536638,
       "fileID": 6875961,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 447673,
-      "fileID": 5913377,
       "required": true,
       "isLocked": false
     },
@@ -916,6 +916,12 @@
       "isLocked": false
     },
     {
+      "projectID": 511319,
+      "fileID": 6091021,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 422951,
       "fileID": 7155805,
       "required": true,
@@ -1026,12 +1032,6 @@
     {
       "projectID": 1266919,
       "fileID": 6914142,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 243190,
-      "fileID": 7392789,
       "required": true,
       "isLocked": false
     },
