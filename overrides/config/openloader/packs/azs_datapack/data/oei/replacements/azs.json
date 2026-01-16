@@ -75,6 +75,12 @@
   },
   {
     "matchItems": [
+      "farm_and_charm:strawberry_seeds"
+    ],
+    "resultItems": "neapolitan:strawberry_pips"
+  },
+  {
+    "matchItems": [
       "kaleidoscope_cookery:tomato_seed"
     ],
     "resultItems": "farm_and_charm:tomato_seeds"

@@ -1,6 +1,6 @@
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§9Azur Sym 6.0.2 Release", "§bCreate with a Zen mindset.", "§cMade by Hanekmio", "§eWish you have fun and enjoy!"]
+	text = ["§9Azur Sym 6.1.1 Release", "§bCreate with a Zen mindset.", "§cMade by Hanekmio", "§eWish you have fun and enjoy!"]
 
 [versions]
 	#Show which version of Minecraft the client is currently running.
