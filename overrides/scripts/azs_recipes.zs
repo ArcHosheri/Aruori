@@ -32,4 +32,4 @@ furnace.addRecipe("block_rawaethersent_to_aethersent", <item:eternal_starlight:a
 furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
 # BANNED_EFFECTS
 import crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent;
-events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[碧蓝交响曲]饱腹代偿已被游戏设定移除。");}});
+events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[Azur Sym]Satiated Shield has been removed from the game settings.");}});
