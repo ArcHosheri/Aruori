@@ -1,4 +1,6 @@
 # CHANGES
+craftingTable.addShapeless("egg_change1", <item:minecraft:egg>, [<item:minecraft:brown_egg>]);
+craftingTable.addShapeless("egg_change2", <item:minecraft:egg>, [<item:minecraft:blue_egg>]);
 craftingTable.addShapeless("corn_change", <item:farm_and_charm:corn> * 2, [<tag:item:c:crops/corn>, <tag:item:c:crops/corn>]);
 craftingTable.addShapeless("corn_seed_change", <item:farm_and_charm:kernels> * 2, [<tag:item:c:seeds/corn>, <tag:item:c:seeds/corn>]);
 craftingTable.addShapeless("wheatchange", <item:minecraft:wheat>, [<tag:item:c:grains/wheats>]);
@@ -30,4 +32,4 @@ furnace.addRecipe("block_rawaethersent_to_aethersent", <item:eternal_starlight:a
 furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
 # BANNED_EFFECTS
 import crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent;
-events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[Azur Sym]Satiated Shield has been removed from the game settings.");}});
+events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[碧蓝交响曲]饱腹代偿已被游戏设定移除。");}});
