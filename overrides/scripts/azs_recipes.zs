@@ -1,7 +1,6 @@
 # CHANGES
 craftingTable.addShapeless("egg_change1", <item:minecraft:egg>, [<item:minecraft:brown_egg>]);
 craftingTable.addShapeless("egg_change2", <item:minecraft:egg>, [<item:minecraft:blue_egg>]);
-<<<<<<< HEAD
 craftingTable.addShapeless("corn_change1", <item:farm_and_charm:corn> * 2, [<item:bountifulfares:maize>, <item:bountifulfares:maize>]);
 craftingTable.addShapeless("corn_change2", <item:bountifulfares:maize> * 2, [<item:farm_and_charm:corn>, <item:farm_and_charm:corn>]);
 craftingTable.addShapeless("corn_seed_change1", <item:farm_and_charm:kernels> * 2, [<item:bountifulfares:maize_seeds>, <item:bountifulfares:maize_seeds>]);
@@ -16,10 +15,6 @@ craftingTable.addShapeless("plum_change1", <item:bountifulfares:plum> * 2, [<ite
 craftingTable.addShapeless("plum_change2", <item:environmental:plum> * 2, [<item:bountifulfares:plum>, <item:bountifulfares:plum>]);
 craftingTable.addShapeless("cherry_change1", <item:vinery:cherry> * 2, [<item:environmental:cherries>, <item:environmental:cherries>]);
 craftingTable.addShapeless("cherry_change2", <item:environmental:cherries> * 2, [<item:vinery:cherry>, <item:vinery:cherry>]);
-=======
-craftingTable.addShapeless("corn_change", <item:farm_and_charm:corn> * 2, [<tag:item:c:crops/corn>, <tag:item:c:crops/corn>]);
-craftingTable.addShapeless("corn_seed_change", <item:farm_and_charm:kernels> * 2, [<tag:item:c:seeds/corn>, <tag:item:c:seeds/corn>]);
->>>>>>> b3e6aaece47209cf168f3ae5ef40c474f6be553e
 craftingTable.addShapeless("wheatchange", <item:minecraft:wheat>, [<tag:item:c:grains/wheats>]);
 craftingTable.addShapeless("oakchange", <item:minecraft:oak_log> * 2, [<tag:item:minecraft:oak_logs>, <tag:item:minecraft:oak_logs>]);
 craftingTable.addShapeless("sprucechange", <item:minecraft:spruce_log> * 2, [<tag:item:minecraft:spruce_logs>, <tag:item:minecraft:spruce_logs>]);
@@ -46,11 +41,4 @@ furnace.addRecipe("blockrawnickeltonickel", <item:oritech:nickel_block>, <tag:it
 furnace.addRecipe("blockrawplatinumtoplatinum", <item:oritech:platinum_block>, <tag:item:c:storage_blocks/raw_platinum>, 7.0, 1300);
 furnace.addRecipe("block_rawdeepsilver_to_deepsilver", <item:eternal_starlight:deepsilver_block>, <tag:item:c:storage_blocks/raw_deepsilver>, 7.0, 1300);
 furnace.addRecipe("block_rawaethersent_to_aethersent", <item:eternal_starlight:aethersent_block>, <tag:item:c:storage_blocks/raw_aethersent>, 7.0, 1300);
-<<<<<<< HEAD
 furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
-=======
-furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
-# BANNED_EFFECTS
-import crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent;
-events.register<crafttweaker.neoforge.api.event.tick.PlayerTickPostEvent>(event => {val player = event.entity;val targetEffect = <mobeffect:kaleidoscope_cookery:satiated_shield>;if (player.hasEffect(targetEffect)) {player.removeEffect(targetEffect);player.sendMessage("[Azur Sym]Satiated Shield has been removed from the game settings.");}});
->>>>>>> b3e6aaece47209cf168f3ae5ef40c474f6be553e
