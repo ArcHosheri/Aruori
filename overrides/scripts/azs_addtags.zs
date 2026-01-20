@@ -114,16 +114,35 @@
 <tag:item:c:foods>.add(<item:vinery:cherry>);
 <tag:item:c:crops/cherry>.add(<item:vinery:cherry>);
 <tag:item:c:crops/cherries>.add(<item:vinery:cherry>);
+<tag:item:c:fruits/cherry>.add(<item:vinery:cherry>);
+<tag:item:c:fruits/cherries>.add(<item:vinery:cherry>);
+<tag:item:environmental:deer_tempt_items>.add(<item:vinery:cherry>);
+<tag:item:environmental:deer_food>.add(<item:vinery:cherry>);
+
+<tag:item:c:foods/fruit>.add(<item:environmental:cherries>);
+<tag:item:c:foods/cherry>.add(<item:environmental:cherries>);
+<tag:item:c:foods/cherries>.add(<item:environmental:cherries>);
+<tag:item:c:foods>.add(<item:environmental:cherries>);
+<tag:item:c:crops/cherry>.add(<item:environmental:cherries>);
+<tag:item:c:crops/cherries>.add(<item:environmental:cherries>);
+<tag:item:c:fruits/cherry>.add(<item:environmental:cherries>);
+<tag:item:c:fruits/cherries>.add(<item:environmental:cherries>);
 
 <tag:item:c:foods/fruit>.add(<item:upgrade_aquatic:mulberry>);
+<tag:item:c:foods/berry>.add(<item:upgrade_aquatic:mulberry>);
 <tag:item:c:foods/mulberry>.add(<item:upgrade_aquatic:mulberry>);
 <tag:item:c:foods/mulberries>.add(<item:upgrade_aquatic:mulberry>);
+<tag:item:c:fruits/mulberry>.add(<item:upgrade_aquatic:mulberry>);
+<tag:item:c:fruits/mulberries>.add(<item:upgrade_aquatic:mulberry>);
 <tag:item:c:crops/mulberry>.add(<item:upgrade_aquatic:mulberry>);
 <tag:item:c:crops/mulberries>.add(<item:upgrade_aquatic:mulberry>);
 
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:elderberries>);
 <tag:item:c:foods/berry>.add(<item:bountifulfares:elderberries>);
 <tag:item:c:foods/elderberry>.add(<item:bountifulfares:elderberries>);
+<tag:item:c:foods/elderberries>.add(<item:bountifulfares:elderberries>);
+<tag:item:c:fruits/elderberry>.add(<item:bountifulfares:elderberries>);
+<tag:item:c:fruits/elderberries>.add(<item:bountifulfares:elderberries>);
 <tag:item:c:foods>.add(<item:bountifulfares:elderberries>);
 <tag:item:c:crops/elderberry>.add(<item:bountifulfares:elderberries>);
 <tag:item:c:crops/elderberries>.add(<item:bountifulfares:elderberries>);
@@ -133,62 +152,144 @@
 
 <tag:item:c:crops/oranges>.add(<item:bountifulfares:orange>);
 <tag:item:c:crops/orange>.add(<item:bountifulfares:orange>);
+<tag:item:c:fruits/oranges>.add(<item:bountifulfares:orange>);
+<tag:item:c:fruits/orange>.add(<item:bountifulfares:orange>);
 <tag:item:c:foods/oranges>.add(<item:bountifulfares:orange>);
 <tag:item:c:foods/orange>.add(<item:bountifulfares:orange>);
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:orange>);
 <tag:item:c:foods>.add(<item:bountifulfares:orange>);
+
+<tag:item:c:crops/oranges>.add(<item:atmospheric:orange>);
+<tag:item:c:crops/orange>.add(<item:atmospheric:orange>);
+<tag:item:c:fruits/oranges>.add(<item:atmospheric:orange>);
+<tag:item:c:fruits/orange>.add(<item:atmospheric:orange>);
+<tag:item:c:foods/oranges>.add(<item:atmospheric:orange>);
+<tag:item:c:foods/orange>.add(<item:atmospheric:orange>);
+<tag:item:c:foods/fruit>.add(<item:atmospheric:orange>);
+<tag:item:c:foods>.add(<item:atmospheric:orange>);
 
 <tag:item:c:crops/lemon>.add(<item:bountifulfares:lemon>);
 <tag:item:c:foods/lemon>.add(<item:bountifulfares:lemon>);
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:lemon>);
 <tag:item:c:foods>.add(<item:bountifulfares:lemon>);
 
+<tag:item:c:crops/oranges>.add(<item:atmospheric:blood_orange>);
 <tag:item:c:crops/orange>.add(<item:atmospheric:blood_orange>);
+<tag:item:c:fruits/oranges>.add(<item:atmospheric:blood_orange>);
+<tag:item:c:fruits/orange>.add(<item:atmospheric:blood_orange>);
+<tag:item:c:foods/oranges>.add(<item:atmospheric:blood_orange>);
 <tag:item:c:foods/orange>.add(<item:atmospheric:blood_orange>);
 <tag:item:c:foods/fruit>.add(<item:atmospheric:blood_orange>);
 <tag:item:c:foods>.add(<item:atmospheric:blood_orange>);
 
 <tag:item:c:crops/olives>.add(<item:natures_spirit:olives>);
 <tag:item:c:crops/olive>.add(<item:natures_spirit:olives>);
+<tag:item:c:fruits/olives>.add(<item:natures_spirit:olives>);
+<tag:item:c:fruits/olive>.add(<item:natures_spirit:olives>);
 <tag:item:c:foods/olives>.add(<item:natures_spirit:olives>);
 <tag:item:c:foods/olive>.add(<item:natures_spirit:olives>);
 <tag:item:c:foods/fruit>.add(<item:natures_spirit:olives>);
 <tag:item:c:foods>.add(<item:natures_spirit:olives>);
 
 <tag:item:c:crops/plum>.add(<item:bountifulfares:plum>);
+<tag:item:c:fruits/plum>.add(<item:bountifulfares:plum>);
 <tag:item:c:foods/plum>.add(<item:bountifulfares:plum>);
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:plum>);
-<tag:item:c:foods>.add(<item:bountifulfares:plum>);
+
+<tag:item:c:crops/plum>.add(<item:environmental:plum>);
+<tag:item:c:fruits/plum>.add(<item:environmental:plum>);
+<tag:item:c:foods/plum>.add(<item:environmental:plum>);
+<tag:item:c:foods/fruit>.add(<item:environmental:plum>);
 
 <tag:item:c:crops/apple>.add(<item:bountifulfares:hoary_apple>);
+<tag:item:c:fruits/apple>.add(<item:bountifulfares:hoary_apple>);
 <tag:item:c:foods/apple>.add(<item:bountifulfares:hoary_apple>);
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:hoary_apple>);
 <tag:item:c:foods>.add(<item:bountifulfares:hoary_apple>);
 
 <tag:item:c:crops/strawberry>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:fruits/strawberry>.add(<item:neapolitan:white_strawberries>);
 <tag:item:c:foods/strawberry>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:crops/strawberries>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:fruits/strawberries>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:foods/strawberries>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:strawberry>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:strawberries>.add(<item:neapolitan:white_strawberries>);
 <tag:item:c:foods/fruit>.add(<item:neapolitan:white_strawberries>);
+<tag:item:c:foods/berry>.add(<item:neapolitan:white_strawberries>);
+
+<tag:item:c:crops/strawberry>.add(<item:neapolitan:strawberries>);
+<tag:item:c:fruits/strawberry>.add(<item:neapolitan:strawberries>);
+<tag:item:c:foods/strawberry>.add(<item:neapolitan:strawberries>);
+<tag:item:c:crops/strawberries>.add(<item:neapolitan:strawberries>);
+<tag:item:c:fruits/strawberries>.add(<item:neapolitan:strawberries>);
+<tag:item:c:foods/strawberries>.add(<item:neapolitan:strawberries>);
+<tag:item:c:strawberry>.add(<item:neapolitan:strawberries>);
+<tag:item:c:strawberries>.add(<item:neapolitan:strawberries>);
+<tag:item:c:foods/fruit>.add(<item:neapolitan:strawberries>);
+<tag:item:c:foods/berry>.add(<item:neapolitan:strawberries>);
+
+<tag:item:c:crops/strawberry>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:fruits/strawberry>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:foods/strawberry>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:crops/strawberries>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:fruits/strawberries>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:foods/strawberries>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:foods/fruit>.add(<item:farm_and_charm:strawberry>);
+<tag:item:c:foods/berry>.add(<item:farm_and_charm:strawberry>);
+
+<tag:item:c:seeds/strawberry>.add(<item:neapolitan:strawberry_pips>);
+<tag:item:c:seeds/strawberries>.add(<item:neapolitan:strawberry_pips>);
+<tag:item:c:seeds/strawberry>.add(<item:farm_and_charm:strawberry_seeds>);
+<tag:item:c:seeds/strawberries>.add(<item:farm_and_charm:strawberry_seeds>);
 
 <tag:item:c:crops/coconut>.add(<item:bountifulfares:coconut_half>);
+<tag:item:c:fruits/coconut>.add(<item:bountifulfares:coconut_half>);
 <tag:item:c:foods/coconut>.add(<item:bountifulfares:coconut_half>);
 <tag:item:c:foods/fruit>.add(<item:bountifulfares:coconut_half>);
 <tag:item:c:foods>.add(<item:bountifulfares:coconut_half>);
 
 <tag:item:c:crops/coconut>.add(<item:ecologics:coconut_slice>);
+<tag:item:c:fruits/coconut>.add(<item:ecologics:coconut_slice>);
 <tag:item:c:foods/coconut>.add(<item:ecologics:coconut_slice>);
 <tag:item:c:foods/fruit>.add(<item:ecologics:coconut_slice>);
 <tag:item:c:foods>.add(<item:ecologics:coconut_slice>);
 
 <tag:item:c:crops/coconut>.add(<item:natures_spirit:coconut_half>);
+<tag:item:c:fruits/coconut>.add(<item:natures_spirit:coconut_half>);
 <tag:item:c:foods/coconut>.add(<item:natures_spirit:coconut_half>);
 <tag:item:c:foods/fruit>.add(<item:natures_spirit:coconut_half>);
 <tag:item:c:foods>.add(<item:natures_spirit:coconut_half>);
 
-<tag:item:environmental:slabfish_snacks>.add(<item:bountifulfares:passion_fruit>);
-
 <tag:item:c:coconut_halves>.add(<item:natures_spirit:coconut_half>);
+<tag:item:c:coconut_halves>.add(<item:bountifulfares:coconut_half>);
+<tag:item:c:coconut_halves>.add(<item:ecologics:coconut_slice>);
+<tag:item:natures_spirit:coconut_halves>.add(<item:natures_spirit:coconut_half>);
+<tag:item:natures_spirit:coconut_halves>.add(<item:bountifulfares:coconut_half>);
+<tag:item:natures_spirit:coconut_halves>.add(<item:ecologics:coconut_slice>);
+<tag:item:natures_spirit:coconut_items>.add(<item:natures_spirit:coconut_half>);
+<tag:item:natures_spirit:coconut_items>.add(<item:bountifulfares:coconut_half>);
+<tag:item:natures_spirit:coconut_items>.add(<item:ecologics:coconut_slice>);
+<tag:item:natures_spirit:coconut_items>.add(<item:natures_spirit:coconut>);
 <tag:item:natures_spirit:coconut_items>.add(<item:bountifulfares:coconut>);
-<tag:item:natures_spirit:coconut_halves>.add(<item:bountifulfares:coconut>);
+<tag:item:natures_spirit:coconut_items>.add(<item:ecologics:coconut_slice>);
+
+<tag:item:c:crops/passion_fruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:fruits/passion_fruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:foods/passion_fruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:crops/passionfruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:fruits/passionfruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:foods/passionfruit>.add(<item:atmospheric:passion_fruit>);
+<tag:item:c:foods>.add(<item:atmospheric:passion_fruit>);
+
+<tag:item:c:crops/passion_fruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:fruits/passion_fruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:foods/passion_fruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:crops/passionfruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:fruits/passionfruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:foods/passionfruit>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:c:foods>.add(<item:bountifulfares:passion_fruit>);
+<tag:item:environmental:slabfish_snacks>.add(<item:bountifulfares:passion_fruit>);
 # FOODS
 <tag:item:c:milk>.add(<item:bountifulfares:coconut_milk_bottle>);
 <tag:item:farm_and_charm:milk>.add(<item:bountifulfares:coconut_milk_bottle>);
@@ -209,7 +310,6 @@
 <tag:item:c:foods/cooked_eggs>.add(<item:incubation:fried_egg>);
 <tag:item:c:foods/cooked_egg>.add(<item:incubation:fried_egg>);
 <tag:item:kaleidoscope_cookery:cookery_mod_items>.add(<item:incubation:fried_egg>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:incubation:fried_egg>);
 <tag:item:rusticdelight:raw_cooked_eggs>.add(<item:incubation:fried_egg>);
 
 <tag:item:c:cooked_eggs>.add(<item:bountifulfares:cooked_egg>);
@@ -217,13 +317,11 @@
 <tag:item:c:foods/cooked_egg>.add(<item:bountifulfares:cooked_egg>);
 <tag:item:c:foods>.add(<item:bountifulfares:cooked_egg>);
 <tag:item:kaleidoscope_cookery:cookery_mod_items>.add(<item:bountifulfares:cooked_egg>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:bountifulfares:cooked_egg>);
 <tag:item:rusticdelight:raw_cooked_eggs>.add(<item:bountifulfares:cooked_egg>);
 
 <tag:item:c:foods/cooked_eggs>.add(<item:kaleidoscope_cookery:fried_egg>);
 <tag:item:c:foods/cooked_egg>.add(<item:kaleidoscope_cookery:fried_egg>);
 <tag:item:c:foods>.add(<item:kaleidoscope_cookery:fried_egg>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:fried_egg>);
 <tag:item:rusticdelight:raw_cooked_eggs>.add(<item:kaleidoscope_cookery:fried_egg>);
 
 <tag:item:c:foods/bread>.add(<item:bountifulfares:maize_bread>);
@@ -246,7 +344,6 @@
 <tag:item:c:foods/safe_raw_fish>.add(<item:kaleidoscope_cookery:sashimi>);
 <tag:item:c:foods/raw_fish>.add(<item:kaleidoscope_cookery:sashimi>);
 <tag:item:c:foods/raw_meats>.add(<item:kaleidoscope_cookery:sashimi>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:sashimi>);
 <tag:item:rusticdelight:spring_roll_ingredients>.add(<item:kaleidoscope_cookery:sashimi>);
 <tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:kaleidoscope_cookery:sashimi>);
 
@@ -255,7 +352,6 @@
 <tag:item:farmersdelight:cabbage_roll_ingredients>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
 <tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
 <tag:item:minecraft:meat>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
 <tag:item:minecraft:wolf_food>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
 <tag:item:c:foods/raw_meat>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
 <tag:item:rusticdelight:spring_roll_ingredients>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
@@ -263,25 +359,40 @@
 
 <tag:item:c:animal_foods>.add(<item:kaleidoscope_cookery:cooked_lamb_chops>);
 <tag:item:minecraft:meat>.add(<item:kaleidoscope_cookery:cooked_lamb_chops>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:cooked_lamb_chops>);
 <tag:item:minecraft:wolf_food>.add(<item:kaleidoscope_cookery:cooked_lamb_chops>);
+
+<tag:item:c:animal_foods>.add(<item:farm_and_charm:bacon>);
+<tag:item:c:foods>.add(<item:farm_and_charm:bacon>);
+<tag:item:c:foods/raw_meat>.add(<item:farm_and_charm:bacon>);
+<tag:item:c:foods/raw_bacon>.add(<item:farm_and_charm:bacon>);
+<tag:item:c:raw_bacon>.add(<item:farm_and_charm:bacon>);
+<tag:item:minecraft:meat>.add(<item:farm_and_charm:bacon>);
+<tag:item:minecraft:wolf_food>.add(<item:farm_and_charm:bacon>);
+<tag:item:farmersdelight:cabbage_roll_ingredients>.add(<item:farm_and_charm:bacon>);
+<tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:farm_and_charm:bacon>);
+<tag:item:rusticdelight:spring_roll_ingredients>.add(<item:farm_and_charm:bacon>);
 
 <tag:item:c:animal_foods>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:c:foods>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
+<tag:item:c:foods/raw_pork>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:c:foods/raw_meat>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:c:foods/raw_bacon>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
+<tag:item:c:raw_pork>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
+<tag:item:c:raw_bacon>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:minecraft:meat>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:minecraft:wolf_food>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:farmersdelight:cabbage_roll_ingredients>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 <tag:item:rusticdelight:spring_roll_ingredients>.add(<item:kaleidoscope_cookery:raw_pork_belly>);
 
 <tag:item:c:animal_foods>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
 <tag:item:minecraft:meat>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
-<tag:item:someassemblyrequired:special_sandwich_fillings>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
 <tag:item:minecraft:wolf_food>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
+<tag:item:c:foods/cooked_pork>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
+<tag:item:c:foods/cooked_meat>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
 <tag:item:c:foods/cooked_bacon>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
+<tag:item:c:cooked_pork>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
+<tag:item:c:cooked_bacon>.add(<item:kaleidoscope_cookery:cooked_pork_belly>);
 
 <tag:item:c:foods>.add(<item:wan_ancient_beasts:cooked_ancient_meat>);
 <tag:item:c:foods/cooked_meat>.add(<item:wan_ancient_beasts:cooked_ancient_meat>);
@@ -290,13 +401,47 @@
 <tag:item:farmersdelight:cabbage_roll_ingredients>.add(<item:wan_ancient_beasts:raw_ancient_meat>);
 <tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:wan_ancient_beasts:raw_ancient_meat>);
 <tag:item:rusticdelight:spring_roll_ingredients>.add(<item:wan_ancient_beasts:raw_ancient_meat>);
-# VEGETABLES
+# VEGETABLES & GRAIN & NUTS
+<tag:item:c:foods>.add(<item:bountifulfares:walnut>);
+<tag:item:c:crops>.add(<item:bountifulfares:walnut>);
+<tag:item:c:nuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:foods/nuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:crops/nuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:foods/nut>.add(<item:bountifulfares:walnut>);
+<tag:item:c:crops/nut>.add(<item:bountifulfares:walnut>);
+<tag:item:c:foods/walnut>.add(<item:bountifulfares:walnut>);
+<tag:item:c:crops/walnut>.add(<item:bountifulfares:walnut>);
+<tag:item:c:foods/walnuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:crops/walnuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:nuts/walnuts>.add(<item:bountifulfares:walnut>);
+<tag:item:c:nuts/walnut>.add(<item:bountifulfares:walnut>);
+<tag:item:c:nuts/nut>.add(<item:bountifulfares:walnut>);
+<tag:item:caupona:walnut>.add(<item:bountifulfares:walnut>);
+
+<tag:item:c:foods>.add(<item:caupona:walnut>);
+<tag:item:c:crops>.add(<item:caupona:walnut>);
+<tag:item:c:nuts>.add(<item:caupona:walnut>);
+<tag:item:c:foods/nuts>.add(<item:caupona:walnut>);
+<tag:item:c:crops/nuts>.add(<item:caupona:walnut>);
+<tag:item:c:foods/nut>.add(<item:caupona:walnut>);
+<tag:item:c:crops/nut>.add(<item:caupona:walnut>);
+<tag:item:c:foods/walnut>.add(<item:caupona:walnut>);
+<tag:item:c:crops/walnut>.add(<item:caupona:walnut>);
+<tag:item:c:foods/walnuts>.add(<item:caupona:walnut>);
+<tag:item:c:crops/walnuts>.add(<item:caupona:walnut>);
+<tag:item:c:nuts/walnuts>.add(<item:caupona:walnut>);
+<tag:item:c:nuts/walnut>.add(<item:caupona:walnut>);
+<tag:item:c:nuts/nut>.add(<item:caupona:walnut>);
+<tag:item:minecraft:parrot_food>.add(<item:caupona:walnut>);
+<tag:item:c:animal_foods>.add(<item:caupona:walnut>);
+
 <tag:item:c:foods>.add(<item:kaleidoscope_cookery:tomato>);
 <tag:item:c:foods/tomato>.add(<item:kaleidoscope_cookery:tomato>);
 <tag:item:c:crops/tomato>.add(<item:kaleidoscope_cookery:tomato>);
 <tag:item:rusticdelight:stuffed_bell_pepper_ingredients>.add(<item:kaleidoscope_cookery:tomato>);
 <tag:item:minecraft:pig_food>.add(<item:kaleidoscope_cookery:tomato>);
 <tag:item:c:animal_foods>.add(<item:kaleidoscope_cookery:tomato>);
+<tag:item:c:seeds/tomato>.add(<item:kaleidoscope_cookery:tomato_seed>);
 
 <tag:item:c:foods>.add(<item:natures_spirit:desert_turnip>);
 <tag:item:c:foods/vegetable>.add(<item:natures_spirit:desert_turnip>);
@@ -363,67 +508,44 @@
 
 <tag:item:c:crops/corn>.add(<item:bountifulfares:maize>);
 <tag:item:c:grains/corn>.add(<item:bountifulfares:maize>);
+<tag:item:c:vegetables/corn>.add(<item:bountifulfares:maize>);
+<tag:item:c:foods/corn>.add(<item:bountifulfares:maize>);
+<tag:item:c:foods/vegetable>.add(<item:bountifulfares:maize>);
+<tag:item:c:grains>.add(<item:bountifulfares:maize>);
+<tag:item:c:seeds>.add(<item:bountifulfares:maize_seeds>);
 <tag:item:c:seeds/corn>.add(<item:bountifulfares:maize_seeds>);
 
+<tag:item:c:crops/corn>.add(<item:farm_and_charm:corn>);
+<tag:item:c:grains/corn>.add(<item:farm_and_charm:corn>);
+<tag:item:c:vegetables/corn>.add(<item:farm_and_charm:corn>);
 <tag:item:c:foods/corn>.add(<item:farm_and_charm:corn>);
+<tag:item:c:foods/vegetable>.add(<item:farm_and_charm:corn>);
+<tag:item:c:grains>.add(<item:farm_and_charm:corn>);
+<tag:item:c:seeds>.add(<item:farm_and_charm:kernels>);
 <tag:item:c:seeds/corn>.add(<item:farm_and_charm:kernels>);
 
-<tag:item:c:seeds/tomato>.add(<item:kaleidoscope_cookery:tomato_seed>);
-<tag:item:c:seeds/cabbage>.add(<item:kaleidoscope_cookery:lettuce_seed>);
 <tag:item:c:seeds/lettuce>.add(<item:kaleidoscope_cookery:lettuce_seed>);
+<tag:item:c:seeds/cabbage>.add(<item:kaleidoscope_cookery:lettuce_seed>);
+<tag:item:c:foods/lettuce>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:foods/cabbage>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:crops/lettuce>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:crops/cabbage>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:vegetables/lettuce>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:vegetables/cabbage>.add(<item:kaleidoscope_cookery:lettuce>);
+<tag:item:c:foods/vegetable>.add(<item:kaleidoscope_cookery:lettuce>);
 
-<tag:item:c:seeds/cabbage>.add(<item:farm_and_charm:lettuce_seeds>);
 <tag:item:c:seeds/lettuce>.add(<item:farm_and_charm:lettuce_seeds>);
+<tag:item:c:seeds/cabbage>.add(<item:farm_and_charm:lettuce_seeds>);
 <tag:item:c:foods/lettuce>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:foods/cabbage>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:crops/lettuce>.add(<item:farm_and_charm:lettuce>);
+<tag:item:c:crops/cabbage>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:vegetables/lettuce>.add(<item:farm_and_charm:lettuce>);
 <tag:item:c:vegetables/cabbage>.add(<item:farm_and_charm:lettuce>);
-<<<<<<< HEAD
-
-<tag:item:c:foods>.add(<item:caupona:walnut>);
-<tag:item:c:foods/nut>.add(<item:caupona:walnut>);
-<tag:item:c:foods/nuts>.add(<item:caupona:walnut>);
-<tag:item:c:foods/walnut>.add(<item:caupona:walnut>);
-<tag:item:c:foods/walnuts>.add(<item:caupona:walnut>);
-<tag:item:c:crops>.add(<item:caupona:walnut>);
-<tag:item:c:crops/nut>.add(<item:caupona:walnut>);
-<tag:item:c:crops/nuts>.add(<item:caupona:walnut>);
-<tag:item:c:crops/walnut>.add(<item:caupona:walnut>);
-<tag:item:c:crops/walnuts>.add(<item:caupona:walnut>);
-<tag:item:c:nuts>.add(<item:caupona:walnut>);
-<tag:item:c:nuts/walnut>.add(<item:caupona:walnut>);
-<tag:item:c:nuts/walnuts>.add(<item:caupona:walnut>);
-
-<tag:item:c:foods>.add(<item:ecologics:walnut>);
-<tag:item:c:foods/nut>.add(<item:ecologics:walnut>);
-<tag:item:c:foods/nuts>.add(<item:ecologics:walnut>);
-<tag:item:c:foods/walnut>.add(<item:ecologics:walnut>);
-<tag:item:c:foods/walnuts>.add(<item:ecologics:walnut>);
-<tag:item:c:crops>.add(<item:ecologics:walnut>);
-<tag:item:c:crops/nut>.add(<item:ecologics:walnut>);
-<tag:item:c:crops/nuts>.add(<item:ecologics:walnut>);
-<tag:item:c:crops/walnut>.add(<item:ecologics:walnut>);
-<tag:item:c:crops/walnuts>.add(<item:ecologics:walnut>);
-<tag:item:c:nuts>.add(<item:ecologics:walnut>);
-<tag:item:c:nuts/walnut>.add(<item:ecologics:walnut>);
-<tag:item:c:nuts/walnuts>.add(<item:ecologics:walnut>);
-
-<tag:item:c:foods>.add(<item:bountifulfares:walnut>);
-<tag:item:c:foods/nut>.add(<item:bountifulfares:walnut>);
-<tag:item:c:foods/nuts>.add(<item:bountifulfares:walnut>);
-<tag:item:c:foods/walnut>.add(<item:bountifulfares:walnut>);
-<tag:item:c:foods/walnuts>.add(<item:bountifulfares:walnut>);
-<tag:item:c:crops>.add(<item:bountifulfares:walnut>);
-<tag:item:c:crops/nut>.add(<item:bountifulfares:walnut>);
-<tag:item:c:crops/nuts>.add(<item:bountifulfares:walnut>);
-<tag:item:c:crops/walnut>.add(<item:bountifulfares:walnut>);
-<tag:item:c:crops/walnuts>.add(<item:bountifulfares:walnut>);
-<tag:item:c:nuts>.add(<item:bountifulfares:walnut>);
-<tag:item:c:nuts/walnut>.add(<item:bountifulfares:walnut>);
-<tag:item:c:nuts/walnuts>.add(<item:bountifulfares:walnut>);
-=======
->>>>>>> 3612d525cf3693c9bb2f76017c5de69ef44185eb
+<tag:item:c:foods/vegetable>.add(<item:farm_and_charm:lettuce>);
+# Basic ingredients
+<tag:item:kaleidoscope_cookery:cookery_mod_items>.add(<tag:item:c:flour>);
+<tag:item:kaleidoscope_cookery:pot_ingredient>.add(<tag:item:c:flour>);
 # EQUIPMENTS
 <tag:item:kaleidoscope_cookery:farmer_armor>.add(<item:vinery:straw_hat>);
 <tag:item:kaleidoscope_cookery:straw_hat>.add(<item:vinery:straw_hat>);
@@ -525,21 +647,21 @@
 <tag:item:supplementaries:shulker_blacklist>.add(<tag:item:l2backpack:drawers>);
 <tag:item:supplementaries:shulker_blacklist>.add(<tag:item:l2backpack:bags>);
 <tag:item:supplementaries:shulker_blacklist>.add(<tag:item:l2backpack:dimensional_storages>);
-<tag:item:supplementaries:shulker_blacklist>.add(<item:someassemblyrequired:sandwich>);
 <tag:item:supplementaries:shulker_blacklist>.add(<item:eternal_starlight:golem_steel_crate>);
 <tag:item:supplementaries:shulker_blacklist>.add(<tag:item:minecraft:bundles>);
 <tag:item:l2backpack:backpack_blacklist>.add(<tag:item:supplementaries:shulker_blacklist>);
 # UNIFY
 <tag:item:c:doughs>.add(<tag:item:c:dough>);
 <tag:item:c:foods/dough>.add(<tag:item:c:dough>);
+<tag:item:minecraft:eggs>.add(<tag:item:c:eggs>);
 <tag:item:c:egg>.add(<tag:item:c:eggs>);
 <tag:item:c:eggs>.add(<tag:item:c:egg>);
+<tag:item:c:crops>.add(<tag:item:c:foods/vegetable>);
 <tag:item:c:vegetable>.add(<tag:item:c:foods/vegetable>);
 <tag:item:c:vegetables>.add(<tag:item:c:foods/vegetable>);
-<tag:item:c:crops>.add(<tag:item:c:foods/vegetable>);
+<tag:item:c:crops>.add(<tag:item:c:foods/fruit>);
 <tag:item:c:fruit>.add(<tag:item:c:foods/fruit>);
 <tag:item:c:fruits>.add(<tag:item:c:foods/fruit>);
-<tag:item:c:crops>.add(<tag:item:c:foods/fruit>);
 <tag:item:c:raw_meat>.add(<tag:item:c:foods/raw_meat>);
 <tag:item:c:raw_meats>.add(<tag:item:c:foods/raw_meat>);
 <tag:item:c:cooked_meat>.add(<tag:item:c:foods/cooked_meat>);
@@ -601,7 +723,6 @@
 <tag:item:minecraft:parrot_food>.add(<tag:item:c:foods/cooked_rice>);
 <tag:item:environmental:muddy_pig_drying_items>.add(<tag:item:c:grains/wheats>);
 <tag:item:supplementaries:straw>.add(<tag:item:c:grains/wheats>);
-<tag:item:caupona:walnut>.add(<tag:item:c:foods/walnuts>);
 
 <tag:block:caupona:loaf_baking_blocks>.add(<tag:block:minecraft:campfires>);
 <tag:block:kaleidoscope_cookery:heat_source_blocks_without_lit>.add(<tag:block:candlelight:stoves>);

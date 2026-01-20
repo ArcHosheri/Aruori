@@ -1,0 +1,21 @@
+{
+  "_comment":"Azur Sym(Shortname: AZS) modpack file comments, It acts to preserve the original modpack author: Hanekmio information. According to the Azur Sym modpack usage agreement, users are allowed to create and distribute on the basis of Azur Sym modpack, but the original modpack author information must be retained. Azur Sym modpack is free for users to download, if you spend real money in somewhere and download Azur Sym modpack, please avoid seller!",
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:potato_with_roast_meat",
+    "count": 2
+  },
+  "experience": 0.5,
+  "requiresLearning": false
+}
