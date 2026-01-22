@@ -1,0 +1,29 @@
+{
+  "_comment":"Aruori modpack file comments, It acts to preserve the original modpack author:Hanekmio information. According to the Aruori modpack usage agreement, users are allowed to create and distribute on the basis of Aruori modpack, but the original modpack author information must be retained. Aruori modpack is free for users to download, if you spend real money in somewhere and download Aruori modpack, please avoid seller!",
+  "type": "farm_and_charm:roaster",
+  "ingredients": [
+[
+  {
+  "tag": "c:crops/cabbage"
+  },
+  {
+  "tag": "c:crops/lettuce"
+  }
+],
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "candlelight:cheeses"
+    }
+  ],
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1,
+    "consume": true
+  },
+  "result": {
+    "id": "candlelight:pasta_with_lettuce"
+  },
+  "requiresLearning": false
+}

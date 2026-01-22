@@ -13,7 +13,7 @@
   "validate": false,
   "validationThreshold": 8.0,
   "emotesFolderOnLogicalServer": false,
-  "emotesDirectory": "azs_emotecraft_emotes",
+  "emotesDirectory": "aruori6_emotecraft_emotes",
   "autoFixEmoteStop": true,
   "alwaysValidateEmote": false,
   "playersafety": true,

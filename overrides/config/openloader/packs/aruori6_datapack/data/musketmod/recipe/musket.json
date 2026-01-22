@@ -1,0 +1,28 @@
+{
+  "_comment":"Aruori modpack file comments, It acts to preserve the original modpack author:Hanekmio information. According to the Aruori modpack usage agreement, users are allowed to create and distribute on the basis of Aruori modpack, but the original modpack author information must be retained. Aruori modpack is free for users to download, if you spend real money in somewhere and download Aruori modpack, please avoid seller!",
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I  ",
+    " IF",
+    " iP"
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/platinum"
+    },
+    "i": {
+      "item": "immersive_aircraft:industrial_gears"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "musketmod:musket"
+  }
+}

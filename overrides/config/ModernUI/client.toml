@@ -185,7 +185,7 @@
 #Font Config
 [font]
 	#The first font family to use. See fallbackFontFamilyList
-	firstFontFamily = "config/openloader/packs/azs_resourcepack/assets/minecraft/modernui_font/azs_font.ttf"
+	firstFontFamily = "config/openloader/packs/aruori6_resourcepack/assets/minecraft/modernui_font/gamefont.ttf"
 	#A set of fallback font families to determine the typeface to use.
 	#The order is first > fallbacks. TrueType & OpenType are supported.
 	#Each element can be one of the following two cases:

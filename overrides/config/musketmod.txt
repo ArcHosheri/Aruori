@@ -14,9 +14,9 @@ pvpDamageMultiplier = 1.0
 mobDamageMultiplier = 0.5
 
 # Probability of Pillager having a pistol
-pistolPillagerChance = 0.2
+pistolPillagerChance = 0.1
 # Probability of Skeleton having a musket
-musketSkeletonChance = 0.05
+musketSkeletonChance = 0.025
 
 # Extra damage per Power enchantment level
 damagePerPowerLevel = 0.5
@@ -27,7 +27,7 @@ musketBulletStdDev = 1.0
 # Muzzle velocity of bullet (in blocks per second)
 musketBulletSpeed = 192.0
 # Damage at point-blank range
-musketDamage = 15.0
+musketDamage = 14.0
 # Headshot damage multiplier
 headshotDamageMultiplier = 1.25
 # Durability (applied on restart)
@@ -59,24 +59,24 @@ blunderbussBulletStdDev = 2.5
 # Muzzle velocity of bullet (in blocks per second)
 blunderbussBulletSpeed = 128.0
 # Damage at point-blank range
-blunderbussDamage = 20.0
+blunderbussDamage = 20.5
 # Pellet count
 blunderbussPelletCount = 8
 # Durability (applied on restart)
-blunderbussDurability = 192
+blunderbussDurability = 160
 
 # Pistol
 
 # Standard deviation of bullet spread (in degrees)
-pistolBulletStdDev = 1.5
+pistolBulletStdDev = 1.6
 # Muzzle velocity of bullet (in blocks per second)
 pistolBulletSpeed = 160.0
 # Damage at point-blank range
-pistolDamage = 10.0
+pistolDamage = 10.5
 # Loading time reduction per Quick Charge level (in seconds)
 reductionPerQuickChargeLevel = 0.15
 # Durability (applied on restart)
-pistolDurability = 192
+pistolDurability = 160
 
 # Dispenser
 
