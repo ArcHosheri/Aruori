@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Aruori-6",
-  "version": "6.1.3",
+  "version": "6.1.3hf2",
   "author": "Hanekmio",
   "files": [
     {
@@ -288,6 +288,12 @@
     {
       "projectID": 239197,
       "fileID": 7298371,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 491794,
+      "fileID": 5756947,
       "required": true,
       "isLocked": false
     },
@@ -749,7 +755,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 7200212,
+      "fileID": 7509726,
       "required": true,
       "isLocked": false
     },
@@ -796,14 +802,8 @@
       "isLocked": false
     },
     {
-      "projectID": 1210484,
-      "fileID": 6322326,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 355044,
-      "fileID": 7307724,
+      "fileID": 7510722,
       "required": true,
       "isLocked": false
     },
@@ -923,19 +923,13 @@
     },
     {
       "projectID": 620229,
-      "fileID": 7357063,
+      "fileID": 7511415,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 656977,
       "fileID": 7311745,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 1203888,
-      "fileID": 6291626,
       "required": true,
       "isLocked": false
     },

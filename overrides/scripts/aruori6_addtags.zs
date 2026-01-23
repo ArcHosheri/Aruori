@@ -555,8 +555,6 @@
 <tag:item:kaleidoscope_cookery:straw_hat>.add(<item:bountifulfares:sun_hat>);
 <tag:item:kaleidoscope_cookery:cookery_mod_items>.add(<item:bountifulfares:sun_hat>);
 
-<tag:item:c:tools/melee_weapon>.add(<item:lushscentedparadise:flower_sword>);
-
 <tag:item:c:tools>.add(<tag:item:constructionstick:construction_sticks>);
 # CAUPONA
 <tag:item:caupona:seafood/crustaceans>.add(<item:wetland_whimsy:crawfish>);
