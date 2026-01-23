@@ -32,7 +32,6 @@ blastFurnace.addRecipe("blockrawnickeltonickel_blast", <item:oritech:nickel_bloc
 blastFurnace.addRecipe("blockrawplatinumtoplatinum_blast", <item:oritech:platinum_block>, <tag:item:c:storage_blocks/raw_platinum>, 3.5, 750);
 blastFurnace.addRecipe("block_rawdeepsilver_to_deepsilver_blast", <item:eternal_starlight:deepsilver_block>, <tag:item:c:storage_blocks/raw_deepsilver>, 3.5, 750);
 blastFurnace.addRecipe("block_rawaethersent_to_aethersent_blast", <item:eternal_starlight:aethersent_block>, <tag:item:c:storage_blocks/raw_aethersent>, 3.5, 750);
-blastFurnace.addRecipe("block_rawstarsilver_to_starsilver_blast", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 3.5, 750);
 
 furnace.addRecipe("blockrawirontoiron", <item:minecraft:iron_block>, <tag:item:c:storage_blocks/raw_iron>, 7.0, 1300);
 furnace.addRecipe("blockrawgoldtogold", <item:minecraft:gold_block>, <tag:item:c:storage_blocks/raw_gold>, 7.0, 1300);
@@ -41,4 +40,3 @@ furnace.addRecipe("blockrawnickeltonickel", <item:oritech:nickel_block>, <tag:it
 furnace.addRecipe("blockrawplatinumtoplatinum", <item:oritech:platinum_block>, <tag:item:c:storage_blocks/raw_platinum>, 7.0, 1300);
 furnace.addRecipe("block_rawdeepsilver_to_deepsilver", <item:eternal_starlight:deepsilver_block>, <tag:item:c:storage_blocks/raw_deepsilver>, 7.0, 1300);
 furnace.addRecipe("block_rawaethersent_to_aethersent", <item:eternal_starlight:aethersent_block>, <tag:item:c:storage_blocks/raw_aethersent>, 7.0, 1300);
-furnace.addRecipe("block_rawstarsilver_to_starsilver", <item:lushscentedparadise:star_silver_block>, <item:lushscentedparadise:raw_star_silver_block>, 7.0, 1300);
