@@ -1,20 +1,5 @@
-{
-  "minecraft": {
-    "version": "1.21.1",
-    "modLoaders": [
-      {
-        "id": "neoforge-21.1.218",
-        "primary": true
-      }
-    ],
-    "recommendedRam": 4096
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Aruori-6",
-  "version": "6.1.3",
-  "author": "Hanekmio",
-  "files": [
+{"minecraft":{"version":"1.21.1","modLoaders":[{"id":"neoforge-21.1.218","primary":true}],"recommendedRam":4096},"manifestType":"minecraftModpack","manifestVersion":1,"name":"Aruori-6","version":"6.1.3hf1","author":"Hanekmio",
+"files":[
     {
       "projectID": 915308,
       "fileID": 6153780,
@@ -934,8 +919,8 @@
       "isLocked": false
     },
     {
-      "projectID": 1203888,
-      "fileID": 6291626,
+      "projectID": 491794,
+      "fileID": 5756947,
       "required": true,
       "isLocked": false
     },
@@ -1022,7 +1007,4 @@
       "fileID": 7176734,
       "required": true,
       "isLocked": false
-    }
-  ],
-  "overrides": "overrides"
-}
+}],"overrides":"overrides"}
