@@ -1,20 +1,4 @@
-{
-  "minecraft": {
-    "version": "1.21.1",
-    "modLoaders": [
-      {
-        "id": "neoforge-21.1.218",
-        "primary": true
-      }
-    ],
-    "recommendedRam": 4096
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Aruori-6",
-  "version": "6.1.3hf2",
-  "author": "Hanekmio",
-  "files": [
+{"minecraft":{"version": "1.21.1","modLoaders":[{"id":"neoforge-21.1.218","primary":true}],"recommendedRam": 4096},"manifestType":"minecraftModpack","manifestVersion":1,"name":"Aruori-6","version":"6.1.5","author":"Hanekmio","files":[
     {
       "projectID": 915308,
       "fileID": 6153780,
@@ -89,7 +73,7 @@
     },
     {
       "projectID": 429235,
-      "fileID": 5850121,
+      "fileID": 7524151,
       "required": true,
       "isLocked": false
     },
@@ -197,7 +181,7 @@
     },
     {
       "projectID": 475117,
-      "fileID": 7428334,
+      "fileID": 7527945,
       "required": true,
       "isLocked": false
     },
@@ -827,7 +811,7 @@
     },
     {
       "projectID": 361276,
-      "fileID": 7486983,
+      "fileID": 7528375,
       "required": true,
       "isLocked": false
     },
@@ -863,7 +847,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 7473045,
+      "fileID": 7522321,
       "required": true,
       "isLocked": false
     },
@@ -875,7 +859,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 7387814,
+      "fileID": 7511735,
       "required": true,
       "isLocked": false
     },
@@ -929,7 +913,7 @@
     },
     {
       "projectID": 656977,
-      "fileID": 7311745,
+      "fileID": 7517568,
       "required": true,
       "isLocked": false
     },
@@ -1016,7 +1000,4 @@
       "fileID": 7176734,
       "required": true,
       "isLocked": false
-    }
-  ],
-  "overrides": "overrides"
-}
+}],"overrides":"overrides"}
