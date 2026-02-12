@@ -9,20 +9,16 @@ I once felt lost and disappointed, losing all direction, until I realized that o
 All the brilliance that once existed in life eventually needs to be repaid with loneliness.
 When the orbits of two satellites occasionally cross, that's how we meet.
 Stay passionate about your hobbies, don't be too calculating!
-趣味に対して情熱を持ち続け、計算高くなりすぎないで!
 The hunter has become the hunted.
 A moment's indulgence can lead to a lifetime of regret.
 No matter how many lies you tell, you can't deceive your own heart.
-どれだけ嘘をつこうと、自分の心だけは騙せないんだよ。
 Just because I am weak, it doesn't mean you are strong.
 Turn limitations into skills through learning!
 The loneliest people are the kindest, and those who have been hurt smile the brightest.
 What's wrong with one person feeling lonely and leaning on another?
-一人で寂しさを感じるのと、誰かと寄り添うのと、どこが悪いのですか?
 We are striving to expand ourselves, to get closer to and to reach the world beyond ourselves.
 Childhood is the truth in dreams, the dream in truth, the smile with tears when recalling memories.
 Most people live in quiet despair. Don't passively accept it—break out of your cocoon.
-ほとんどの人は平穏な絶望の中で生きている。逆らうだけでなく、殻を破って飛び出さなければならない。
 In such a vast world, why did we meet? Could it be fate? Could it be destiny?
 Even if you want to give up, you can't give up the things you want most; that's human nature.
 Become the light, because there are people who fear the dark.
@@ -33,9 +29,7 @@ If you don't work hard, you'll only hear about other people's good news.
 May time slow down, and may old friends never part!
 :)
 Winning or losing is secondary; fighting side by side is what truly matters!
-勝ち負けは二の次で、私たちが肩を並べて戦うことが最も大切です！
 Slow is fine, small steps are fine, as long as you keep moving forward.
-ゆっくりでも、小さな一歩でも、前に進むことが大事だ。
 Remember to sit properly when getting on the train
 The process of getting better is never very comfortable; try putting in a bit more effort.
 java.lang.NullPointerException
@@ -48,7 +42,6 @@ Why worry? Worrying won't make the results any better if you've already tried yo
 The very best and the most painful are the same.
 The road is difficult, but we are not alone.
 May you live without fear, growing towards the light.
-あなたが恐れず、太陽の方に向かって生きられますように。
 I don't have dreams, but I can protect the dreams of others!
 Anything is possible!
 Sometimes explanations are unnecessary; enemies won't believe your explanation, and friends don't need it.
