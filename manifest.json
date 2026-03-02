@@ -1,20 +1,4 @@
-{
-  "minecraft": {
-    "version": "1.21.1",
-    "modLoaders": [
-      {
-        "id": "neoforge-21.1.219",
-        "primary": true
-      }
-    ],
-    "recommendedRam": 4096
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Aruori-6",
-  "version": "6.2.1",
-  "author": "Hanekmio",
-  "files": [
+{"minecraft":{"version":"1.21.1","modLoaders":[{"id":"neoforge-21.1.219","primary":true}],"recommendedRam":4096},"manifestType":"minecraftModpack","manifestVersion":1,"name":"Aruori-6","version":"6.3","author":"Hanekmio","files": [
     {
       "projectID": 915308,
       "fileID": 6153780,
@@ -66,6 +50,12 @@
     {
       "projectID": 866957,
       "fileID": 7053597,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 447673,
+      "fileID": 5913377,
       "required": true,
       "isLocked": false
     },
@@ -125,7 +115,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 7561827,
+      "fileID": 7650365,
       "required": true,
       "isLocked": false
     },
@@ -149,7 +139,7 @@
     },
     {
       "projectID": 243190,
-      "fileID": 7446754,
+      "fileID": 7692926,
       "required": true,
       "isLocked": false
     },
@@ -191,19 +181,13 @@
     },
     {
       "projectID": 1038117,
-      "fileID": 7539794,
+      "fileID": 7671592,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 475117,
       "fileID": 7527945,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 931925,
-      "fileID": 7378108,
       "required": true,
       "isLocked": false
     },
@@ -389,7 +373,7 @@
     },
     {
       "projectID": 1129397,
-      "fileID": 7399460,
+      "fileID": 7621954,
       "required": true,
       "isLocked": false
     },
@@ -485,7 +469,7 @@
     },
     {
       "projectID": 1156098,
-      "fileID": 6912513,
+      "fileID": 7687867,
       "required": true,
       "isLocked": false
     },
@@ -551,7 +535,7 @@
     },
     {
       "projectID": 1038106,
-      "fileID": 7536834,
+      "fileID": 7657156,
       "required": true,
       "isLocked": false
     },
@@ -563,7 +547,7 @@
     },
     {
       "projectID": 1038130,
-      "fileID": 7600532,
+      "fileID": 7628197,
       "required": true,
       "isLocked": false
     },
@@ -599,7 +583,7 @@
     },
     {
       "projectID": 855414,
-      "fileID": 7605616,
+      "fileID": 7691161,
       "required": true,
       "isLocked": false
     },
@@ -707,7 +691,7 @@
     },
     {
       "projectID": 1038103,
-      "fileID": 7603357,
+      "fileID": 7657773,
       "required": true,
       "isLocked": false
     },
@@ -750,6 +734,12 @@
     {
       "projectID": 790626,
       "fileID": 7509726,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 499980,
+      "fileID": 7695620,
       "required": true,
       "isLocked": false
     },
@@ -803,7 +793,7 @@
     },
     {
       "projectID": 378646,
-      "fileID": 6146345,
+      "fileID": 7618651,
       "required": true,
       "isLocked": false
     },
@@ -821,7 +811,7 @@
     },
     {
       "projectID": 361276,
-      "fileID": 7528375,
+      "fileID": 7666212,
       "required": true,
       "isLocked": false
     },
@@ -856,12 +846,6 @@
       "isLocked": false
     },
     {
-      "projectID": 499980,
-      "fileID": 7522321,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 1167674,
       "fileID": 6032827,
       "required": true,
@@ -869,7 +853,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 7511735,
+      "fileID": 7688722,
       "required": true,
       "isLocked": false
     },
@@ -917,7 +901,7 @@
     },
     {
       "projectID": 620229,
-      "fileID": 7511415,
+      "fileID": 7698800,
       "required": true,
       "isLocked": false
     },
@@ -953,7 +937,7 @@
     },
     {
       "projectID": 360203,
-      "fileID": 7306932,
+      "fileID": 7681656,
       "required": true,
       "isLocked": false
     },
@@ -965,7 +949,7 @@
     },
     {
       "projectID": 351725,
-      "fileID": 6543002,
+      "fileID": 7627896,
       "required": true,
       "isLocked": false
     },
@@ -1010,7 +994,4 @@
       "fileID": 7176734,
       "required": true,
       "isLocked": false
-    }
-  ],
-  "overrides": "overrides"
-}
+}],"overrides": "overrides"}
