@@ -96,4 +96,8 @@ Unfortunately, the original author may never have it again. Very bad things seem
 
 Do what you think is right and hope that your choice deserves to be respected.
 
+<<<<<<< HEAD
 Good bye.
+=======
+Good bye.
+>>>>>>> c1e6bb066241fd897f1881df2f98be9f6ab28ead

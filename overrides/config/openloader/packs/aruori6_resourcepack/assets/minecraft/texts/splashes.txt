@@ -119,4 +119,8 @@ Whether you leave someone behind or are left behind, the pain is the same.
 There are no suddenly collapsing relationships in this world, only the last straw that bends the camel.
 If you have a dream, you must protect it.
 Those who commit many injustices will bring about their own destruction.
+<<<<<<< HEAD
 Never extinguish the fire in your heart, even if others only see the smoke.
+=======
+Never extinguish the fire in your heart, even if others only see the smoke.
+>>>>>>> c1e6bb066241fd897f1881df2f98be9f6ab28ead
