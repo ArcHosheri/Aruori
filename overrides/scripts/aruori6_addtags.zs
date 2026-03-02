@@ -26,7 +26,6 @@
 <tag:item:minecraft:spruce_logs>.add(<tag:item:autumnity:maple_logs>);
 <tag:item:minecraft:spruce_logs>.add(<tag:item:upgrade_aquatic:river_logs>);
 <tag:item:minecraft:spruce_logs>.add(<tag:item:environmental:pine_logs>);
-<tag:item:minecraft:spruce_logs>.add(<tag:item:wetland_whimsy:bald_cypress_logs>);
 
 <tag:item:minecraft:birch_logs>.add(<tag:item:natures_spirit:aspen_logs>);
 <tag:item:minecraft:birch_logs>.add(<tag:item:atmospheric:aspen_logs>);
@@ -557,8 +556,6 @@
 
 <tag:item:c:tools>.add(<tag:item:constructionstick:construction_sticks>);
 # CAUPONA
-<tag:item:caupona:seafood/crustaceans>.add(<item:wetland_whimsy:crawfish>);
-<tag:item:caupona:seafood/crustaceans>.add(<item:wetland_whimsy:cooked_crawfish>);
 <tag:item:caupona:seafood/crustaceans>.add(<item:ecologics:crab_claw>);
 <tag:item:caupona:seafood/crustaceans>.add(<item:ecologics:crab_meat>);
 <tag:item:caupona:meats/meat>.add(<item:kaleidoscope_cookery:raw_lamb_chops>);
@@ -616,18 +613,6 @@
 <tag:block:minecraft:campfires>.add(<block:blockbox:brazier>);
 <tag:block:kaleidoscope_cookery:heat_source_blocks_without_lit>.add(<block:blockbox:brazier>);
 <tag:block:kaleidoscope_cookery:warmth_heat_source_blocks>.add(<block:blockbox:brazier>);
-
-<tag:block:farmersdelight:heat_sources>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:candlelight:allows_cooking>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:supplementaries:lightable_by_gunpowder>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:supplementaries:bellows_tickable>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:farm_and_charm:allows_cooking>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:bakery:allows_cooking>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:c:allows_cooking>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:amendments:cauldron_heat_source>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:minecraft:campfires>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:kaleidoscope_cookery:heat_source_blocks_without_lit>.add(<block:wetland_whimsy:lemonstone_brazier>);
-<tag:block:kaleidoscope_cookery:warmth_heat_source_blocks>.add(<block:wetland_whimsy:lemonstone_brazier>);
 
 <tag:block:farmersdelight:heat_sources>.add(<block:supplementaries:fire_pit>);
 <tag:block:candlelight:allows_cooking>.add(<block:supplementaries:fire_pit>);
