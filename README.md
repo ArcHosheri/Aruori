@@ -1,6 +1,6 @@
 <div align="center">
 <a href="version">
-    <img src="./aruori_icon.png" alt="icon" style="zoom:125%;">
+    <img src="./aruori_icon.png" alt="icon" style="zoom:100%;">
 </a>
 
 # Aruori
