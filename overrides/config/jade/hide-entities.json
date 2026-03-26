@@ -71,6 +71,7 @@
     "immersive_paintings:glow_graffiti",
     "immersive_paintings:glow_painting",
     "immersive_paintings:graffiti",
-    "immersive_paintings:painting"
+    "immersive_paintings:painting",
+    "corpse:corpse"
   ]
 }
