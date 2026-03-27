@@ -15,11 +15,7 @@
 
 <a href="https://www.curseforge.com/minecraft/modpacks/aruori">
     <img src="https://img.shields.io/badge/CurseForge-Aruori-orange" alt="Curseforge">
-</a>  
-
-<a href="https://modrinth.com/modpack/aruori">
-    <img src="https://img.shields.io/badge/Modrinth-Aruori-lime" alt="Modrinth">
-</a>  
+</a>
 
 "Spinning sleeves in the returning wind, I raise a toast for you; how long and graceful the singing voice is."  
 As a small, sweet modpack leaning towards a casual style, it aims to provide a rich game system with the lightest possible weight, rejecting bloatedness and redundancy, with the principle of 'less but refined'.
