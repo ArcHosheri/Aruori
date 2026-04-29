@@ -3,16 +3,15 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.226",
+        "id": "neoforge-21.1.228",
         "primary": true
       }
-    ],
-    "recommendedRam": 4096
+    ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Aruori-6",
-  "version": "6.3.6",
+  "version": "6.5",
   "author": "ArcHosheri",
   "files": [
     {
@@ -29,7 +28,7 @@
     },
     {
       "projectID": 978569,
-      "fileID": 7775331,
+      "fileID": 7930284,
       "required": true,
       "isLocked": false
     },
@@ -89,7 +88,7 @@
     },
     {
       "projectID": 1382688,
-      "fileID": 7867492,
+      "fileID": 7945283,
       "required": true,
       "isLocked": false
     },
@@ -107,7 +106,7 @@
     },
     {
       "projectID": 1076278,
-      "fileID": 7329174,
+      "fileID": 7978288,
       "required": true,
       "isLocked": false
     },
@@ -281,7 +280,7 @@
     },
     {
       "projectID": 1380105,
-      "fileID": 7488559,
+      "fileID": 8004496,
       "required": true,
       "isLocked": false
     },
@@ -346,6 +345,12 @@
       "isLocked": false
     },
     {
+      "projectID": 936015,
+      "fileID": 7980813,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 945149,
       "fileID": 7534929,
       "required": true,
@@ -395,7 +400,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 7917721,
+      "fileID": 8003021,
       "required": true,
       "isLocked": false
     },
@@ -413,7 +418,7 @@
     },
     {
       "projectID": 656977,
-      "fileID": 7541010,
+      "fileID": 7957089,
       "required": true,
       "isLocked": false
     },
@@ -581,7 +586,7 @@
     },
     {
       "projectID": 393442,
-      "fileID": 7306458,
+      "fileID": 7958146,
       "required": true,
       "isLocked": false
     },
@@ -712,12 +717,6 @@
       "isLocked": false
     },
     {
-      "projectID": 936015,
-      "fileID": 7928474,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 711216,
       "fileID": 7450707,
       "required": true,
@@ -761,7 +760,7 @@
     },
     {
       "projectID": 1038103,
-      "fileID": 7752888,
+      "fileID": 7959521,
       "required": true,
       "isLocked": false
     },
@@ -774,12 +773,6 @@
     {
       "projectID": 704465,
       "fileID": 7539914,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 342584,
-      "fileID": 7925030,
       "required": true,
       "isLocked": false
     },
@@ -845,7 +838,7 @@
     },
     {
       "projectID": 460681,
-      "fileID": 7928703,
+      "fileID": 7964516,
       "required": true,
       "isLocked": false
     },
@@ -869,7 +862,7 @@
     },
     {
       "projectID": 1030830,
-      "fileID": 7927309,
+      "fileID": 8005544,
       "required": true,
       "isLocked": false
     },
@@ -911,7 +904,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 7928091,
+      "fileID": 7943878,
       "required": true,
       "isLocked": false
     },
@@ -929,7 +922,7 @@
     },
     {
       "projectID": 243190,
-      "fileID": 7876313,
+      "fileID": 7974134,
       "required": true,
       "isLocked": false
     },
@@ -982,6 +975,12 @@
       "isLocked": false
     },
     {
+      "projectID": 342584,
+      "fileID": 7925030,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 382016,
       "fileID": 7119475,
       "required": true,
@@ -1019,7 +1018,7 @@
     },
     {
       "projectID": 1309203,
-      "fileID": 7738871,
+      "fileID": 7966281,
       "required": true,
       "isLocked": false
     }

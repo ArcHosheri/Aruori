@@ -71,7 +71,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:none
+tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -108,7 +108,7 @@ key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
-key_key.swapOffhand:key.keyboard.unknown
+key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.unknown
@@ -123,17 +123,18 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.l2backpack.open:key.keyboard.b
+key_key.modernfix.config:key.keyboard.unknown
 key_asteorbar.key.toggle_overlay:key.keyboard.unknown
 key_asteorbar.key.toggle_mob_bar:key.keyboard.unknown
-key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.oneenoughitem.open_editor:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.eternal_starlight.switch_crest:key.keyboard.j
+key_key.corpse.death_history:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.f4
+key_key.constructionwand.wand_option:key.keyboard.left.control
 key_key.fast_placement:key.keyboard.keypad.6
 key_key.jei.toggleOverlay:key.keyboard.unknown
 key_key.jei.focusSearch:key.keyboard.unknown
@@ -186,7 +187,12 @@ key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
 key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
+key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
+key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
+key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.unknown
@@ -208,12 +214,6 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
-key_key.constructionstick.change_restriction:key.keyboard.unknown
-key_key.constructionstick.change_upgrade:key.keyboard.unknown
-key_key.constructionstick.change_direction:key.keyboard.unknown
-key_key.constructionstick.open_gui:key.keyboard.unknown
-key_key.constructionstick.undo:key.keyboard.unknown
-key_key.constructionstick.show_previous:key.keyboard.unknown
 key_key.modernui.openCenter:key.keyboard.unknown
 key_key.modernui.zoom:key.keyboard.x
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
@@ -231,15 +231,16 @@ key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.i
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_world_map_server_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
-key_Inspect Key:key.keyboard.f
+key_Inspect Key:key.keyboard.h
 key_key.touhou_little_maid.stt_chat.desc:key.keyboard.unknown
-key_key.touhou_little_maid.dismount.desc:key.keyboard.h
+key_key.touhou_little_maid.dismount.desc:key.keyboard.l
 key_oreexcavation.key.excavate:key.keyboard.grave.accent
 key_oreexcavation.key.shape_toggle:key.keyboard.unknown
 key_oreexcavation.key.shape_edit:key.keyboard.unknown
