@@ -17,5 +17,9 @@
     <img src="https://img.shields.io/badge/CurseForge-Aruori-orange" alt="Curseforge">
 </a>
 
+<a href="https://discord.com/invite/Zgy43aW5mm">
+    <img src="https://img.shields.io/badge/Discord-AruoriWorkshop-purple" alt="Discord">
+</a>
+
 "Spinning sleeves in the returning wind, I raise a toast for you; how long and graceful the singing voice is."  
 As a small, sweet modpack leaning towards a casual style, it aims to provide a rich game system with the lightest possible weight, rejecting bloatedness and redundancy, with the principle of 'less but refined'.
