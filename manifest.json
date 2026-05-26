@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.230",
+        "id": "neoforge-21.1.231",
         "primary": true
       }
     ]
@@ -1000,7 +1000,7 @@
     },
     {
       "projectID": 1233277,
-      "fileID": 7738926,
+      "fileID": 8148525,
       "required": true,
       "isLocked": false
     },
