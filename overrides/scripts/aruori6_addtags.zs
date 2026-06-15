@@ -545,6 +545,12 @@
 # Basic ingredients
 <tag:item:kaleidoscope_cookery:cookery_mod_items>.add(<tag:item:c:flour>);
 <tag:item:kaleidoscope_cookery:pot_ingredient>.add(<tag:item:c:flour>);
+
+<tag:item:c:bones/wither>.add(<item:eternalnether:withered_bone>);
+<tag:item:architects_palette:withered_bones>.add(<item:eternalnether:withered_bone>);
+<tag:item:c:bones>.add(<item:architects_palette:withered_bone>);
+<tag:item:caupona:bone>.add(<item:architects_palette:withered_bone>);
+<tag:item:farm_and_charm:bones>.add(<item:architects_palette:withered_bone>);
 # EQUIPMENTS
 <tag:item:kaleidoscope_cookery:farmer_armor>.add(<item:vinery:straw_hat>);
 <tag:item:kaleidoscope_cookery:straw_hat>.add(<item:vinery:straw_hat>);
@@ -561,7 +567,6 @@
 <tag:item:caupona:meats/meat>.add(<item:eternal_starlight:ratlin_meat>);
 <tag:item:caupona:meats/meat>.add(<item:eternal_starlight:shadow_snail_meat>);
 <tag:item:caupona:meats/meat>.add(<item:eternal_starlight:aurora_deer_steak>);
-<tag:item:caupona:meats/meat>.add(<item:kaleidoscope_cookery:raw_donkey_meat>);
 <tag:item:caupona:meats/meat>.add(<item:farm_and_charm:lamb_ham>);
 <tag:item:caupona:meats/meat>.add(<item:farm_and_charm:minced_beef>);
 <tag:item:caupona:meats/meat>.add(<item:environmental:venison>);
