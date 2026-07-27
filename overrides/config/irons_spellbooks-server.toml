@@ -20,7 +20,7 @@
 	furledMapSkipsExistingChunks = true
 	#Whether or not creepers should be healed and become fire immune when struck by lightning. Default: true
 	betterCreeperThunderHit = true
-	#Whether or not casting items should apply all attributes while in the offhand, or just magic related ones. Default: true
+	#[Deprecated] Whether or not casting items should apply all attributes while in the offhand, or just magic related ones. Default: true
 	applyAllMultihandAttributes = true
 	#Whether or not spells such as Fireball or Fire Breath should destroy terrain or create fire. Default: false
 	spellGriefing = false
@@ -62,6 +62,15 @@
 	#Whether to enabled Ice Spider patrols in snowy biomes during snowy weather. Default: true
 	iceSpiderPatrols = true
 
+###############################################################################################
+###                                                                                          ##
+###                                      ATTENTION:                                          ##
+###           If you are looking for spell configs, they are now datapack driven!            ##
+###                     Use '/ironsSpellbooks config' in-game for hints!                     ##
+###                                                                                          ##
+###                                                                                          ##
+###############################################################################################
+#
 #Other Configuration
 [Blocks]
 	#Whether Portal Frames can only be dyed by the block's owner. Default: true
@@ -77,6 +86,8 @@
 		additionalAttackDamage = 0.0
 		#Additional Spell Power (additive percent)
 		additionalSpellPower = 0.0
+		#[Experimental] Whether Tyros has an Ominous Bossfight. Default: false
+		tyrosOminousEnabled = false
 
 	["Boss Config"."Dead King"]
 		#Additional Health
