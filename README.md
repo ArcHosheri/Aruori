@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/CurseForge-Aruori-orange" alt="Curseforge">
 </a>
 
-<a href="https://discord.com/invite/Zgy43aW5mm">
+<a href="https://discord.gg/5cgRzyrS6U">
     <img src="https://img.shields.io/badge/Discord-AruoriWorkshop-purple" alt="Discord">
 </a>
 
